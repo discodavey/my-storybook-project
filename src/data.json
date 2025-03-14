@@ -1,0 +1,8 @@
+[
+  {
+    "name": "ANTS Memory Profiler",
+    "description": "Profile .NET application memory usage",
+    "logo": "https://cdn.red-gate.com/assets/products/ants-memory-profiler/images/ants-memory-profiler.svg",
+    "free": false
+  }
+]

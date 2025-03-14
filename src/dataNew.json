@@ -1,0 +1,177 @@
+[
+  {
+    "name": "ANTS Memory Profiler",
+    "description": "Profile .NET application memory usage",
+    "logo": "https://cdn.red-gate.com/assets/products/ants-memory-profiler/images/ants-memory-profiler.svg",
+    "free": false
+  },
+  {
+    "name": "ANTS Performance Profiler",
+    "description": "Profile and boost the performance of your .NET applications",
+    "logo": "https://cdn.red-gate.com/assets/products/ants-performance-profiler/images/ants-performance-profiler.svg",
+    "free": false
+  },
+  {
+    "name": "Data Compare for Oracle",
+    "description": "Compare data, highlight differences, deploy changes",
+    "logo": "https://cdn.red-gate.com/assets/products/data-compare-for-oracle/images/data-compare-for-oracle.svg",
+    "free": false
+  },
+  {
+    "name": "Data Masker for Oracle",
+    "description": "Shield sensitive information in development and test environments, without compromising data quality",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "Data Masker",
+    "description": "Shield sensitive information in development and test environments, without compromising data quality",
+    "logo": "https://cdn.red-gate.com/assets/products/data-masker-for-sql-server/images/data-masker.svg",
+    "free": false
+  },
+  {
+    "name": ".NET Developer Bundle",
+    "description": "Optimize code performance and memory usage",
+    "logo": "https://cdn.rd.gt/assets/products/images/dotnet-developer-bundle.svg",
+    "free": false
+  },
+  {
+    "name": "Redgate Flyway",
+    "description": "DevOps for the Database",
+    "logo": "https://cdn.red-gate.com/assets/products/flyway/images/navigation/flyway-logo.svg",
+    "free": true
+  },
+  {
+    "name": "Redgate Clone",
+    "description": "Provision virtualized clones of databases in seconds",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "Redgate Monitor",
+    "description": "Real-time SQL Server and PostgreSQL performance monitoring, with alerts and diagnostics",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-monitor/images/sql-monitor.svg",
+    "free": false
+  },
+  {
+    "name": ".NET Reflector",
+    "description": "Browse, analyze, decompile, and debug .NET code",
+    "logo": "https://cdn.red-gate.com/assets/products/dotnet-reflector/images/dotnet-reflector.svg",
+    "free": false
+  },
+  {
+    "name": "Schema Compare for Oracle",
+    "description": "The fast way to compare and deploy Oracle schemas.",
+    "logo": "https://cdn.red-gate.com/assets/products/schema-compare-for-oracle/images/schema-compare-for-oracle.svg",
+    "free": false
+  },
+  {
+    "name": "SmartAssembly",
+    "description": "Obfuscation and automated error reporting",
+    "logo": "https://cdn.red-gate.com/assets/products/smartassembly/images/smartassembly.svg",
+    "free": false
+  },
+  {
+    "name": "Source Control for Oracle",
+    "description": "Connect Oracle schemas to your version control system",
+    "logo": "https://cdn.red-gate.com/assets/products/source-control-for-oracle/images/source-control-for-oracle.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Backup Pro",
+    "description": "Compresses, strengthens, and encrypts backups",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-backup/images/sql-backup.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Compare",
+    "description": "Compare and synchronize SQL Server database schemas",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-compare/images/sql-compare.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Data Compare",
+    "description": "Compare and synchronize SQL Server database contents",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-data-compare/images/sql-data-compare.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Data Generator",
+    "description": "Generate realistic test data for SQL Server databases",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-data-generator/images/sql-data-generator.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Dependency Tracker",
+    "description": "Visualize SQL Server object dependencies",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Doc",
+    "description": "Document your SQL Server databases automatically",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-doc/images/sql-doc.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Index Manager",
+    "description": "Analyze, manage, and fix database index fragmentation",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Multi Script",
+    "description": "Deploy multiple scripts to multiple servers with just one click",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Prompt",
+    "description": "Write, format, and refactor SQL effortlessly",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-prompt/images/sql-prompt.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Provision",
+    "description": "Provision virtualized clones of databases in seconds, with sensitive data shielded",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Scripts Manager",
+    "description": "Powerful and reliable scripts written by SQL Server experts",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": true
+  },
+  {
+    "name": "SQL Search",
+    "description": "Search within SQL Server database schemas",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-search/images/sql-search.svg",
+    "free": true
+  },
+  {
+    "name": "SQL Source Control",
+    "description": "Connect your databases to your source control system",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-source-control/images/sql-source-control.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Test",
+    "description": "Unit test add-in for SQL Server Management Studio",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-test/images/sql-test.svg",
+    "free": false
+  },
+  {
+    "name": "SQL Toolbelt Essentials",
+    "description": "The industry-standard tools for SQL Server development and deployment.",
+    "logo": "https://cdn.red-gate.com/assets/products/sql-toolbelt/images/sql-toolbelt.svg",
+    "free": false
+  },
+  {
+    "name": "Redgate Test Data Manager",
+    "description": "Reliable and secure test data provisioning",
+    "logo": "https://cdn.red-gate.com/assets/products/test-data-manager/images/redgate-test-data-manager.svg",
+    "free": false,
+    "new" : true
+  }
+]
