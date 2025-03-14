@@ -1,21 +1,36 @@
-.products {
+.products-container {
   background: green;
-  margin: 0 auto 20px;
-  min-width: 500px;
-  width: 800px;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+  width: 100%;
 
   @media (min-width: 600px) {
     background: pink;
   }
 }
 
-.productsContainer {
+.products {
+  margin: 0 0 20px;
+}
+
+.product {
+  border: 1px solid black;
+  border-radius: 3px;
   color: #fff;
   display: grid;
-  grid-template-columns: auto 1fr;
-  border: 1px solid black;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 0 3px;
 
   @media (min-width: 600px) {
     color: #000;
   }
+}
+
+.product-name {
+  padding: 10px 20px;
+}
+
+.product-price {
+  padding: 10px 20px;
 }
